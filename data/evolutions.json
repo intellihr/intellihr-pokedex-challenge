@@ -1,0 +1,908 @@
+[
+    {
+      "Number": 1,
+      "Pokemon": "Bulbasaur",
+      "Evolves into (name)": "Ivysaur",
+      "Evolves into (id)": 2
+    },
+    {
+      "Number": 2,
+      "Pokemon": "Ivysaur",
+      "Evolves into (name)": "Venusaur",
+      "Evolves into (id)": 3
+    },
+    {
+      "Number": 3,
+      "Pokemon": "Venusaur",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 4,
+      "Pokemon": "Charmander",
+      "Evolves into (name)": "Charmeleon",
+      "Evolves into (id)": 5
+    },
+    {
+      "Number": 5,
+      "Pokemon": "Charmeleon",
+      "Evolves into (name)": "Charizard",
+      "Evolves into (id)": 6
+    },
+    {
+      "Number": 6,
+      "Pokemon": "Charizard",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 7,
+      "Pokemon": "Squirtle",
+      "Evolves into (name)": "Wartortle",
+      "Evolves into (id)": 8
+    },
+    {
+      "Number": 8,
+      "Pokemon": "Wartortle",
+      "Evolves into (name)": "Blastoise",
+      "Evolves into (id)": 9
+    },
+    {
+      "Number": 9,
+      "Pokemon": "Blastoise",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 10,
+      "Pokemon": "Caterpie",
+      "Evolves into (name)": "Metapod",
+      "Evolves into (id)": 11
+    },
+    {
+      "Number": 11,
+      "Pokemon": "Metapod",
+      "Evolves into (name)": "Butterfree",
+      "Evolves into (id)": 12
+    },
+    {
+      "Number": 12,
+      "Pokemon": "Butterfree",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 13,
+      "Pokemon": "Weedle",
+      "Evolves into (name)": "Kakuna",
+      "Evolves into (id)": 14
+    },
+    {
+      "Number": 14,
+      "Pokemon": "Kakuna",
+      "Evolves into (name)": "Beedrill",
+      "Evolves into (id)": 15
+    },
+    {
+      "Number": 15,
+      "Pokemon": "Beedrill",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 16,
+      "Pokemon": "Pidgey",
+      "Evolves into (name)": "Pidgeotto",
+      "Evolves into (id)": 17
+    },
+    {
+      "Number": 17,
+      "Pokemon": "Pidgeotto",
+      "Evolves into (name)": "Pidgeot",
+      "Evolves into (id)": 18
+    },
+    {
+      "Number": 18,
+      "Pokemon": "Pidgeot",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 19,
+      "Pokemon": "Rattata",
+      "Evolves into (name)": "Raticate",
+      "Evolves into (id)": 20
+    },
+    {
+      "Number": 20,
+      "Pokemon": "Raticate",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 21,
+      "Pokemon": "Spearow",
+      "Evolves into (name)": "Fearow",
+      "Evolves into (id)": 22
+    },
+    {
+      "Number": 22,
+      "Pokemon": "Fearow",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 23,
+      "Pokemon": "Ekans",
+      "Evolves into (name)": "Arbok",
+      "Evolves into (id)": 24
+    },
+    {
+      "Number": 24,
+      "Pokemon": "Arbok",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 25,
+      "Pokemon": "Pikachu",
+      "Evolves into (name)": "Raichu",
+      "Evolves into (id)": 26
+    },
+    {
+      "Number": 26,
+      "Pokemon": "Raichu",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 27,
+      "Pokemon": "Sandshrew",
+      "Evolves into (name)": "Sandslash",
+      "Evolves into (id)": 28
+    },
+    {
+      "Number": 28,
+      "Pokemon": "Sandslash",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 29,
+      "Pokemon": "NidoranF",
+      "Evolves into (name)": "Nidorina",
+      "Evolves into (id)": 30
+    },
+    {
+      "Number": 30,
+      "Pokemon": "Nidorina",
+      "Evolves into (name)": "Nidoqueen",
+      "Evolves into (id)": 31
+    },
+    {
+      "Number": 31,
+      "Pokemon": "Nidoqueen",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 32,
+      "Pokemon": "NidoranM",
+      "Evolves into (name)": "Nidorino",
+      "Evolves into (id)": 33
+    },
+    {
+      "Number": 33,
+      "Pokemon": "Nidorino",
+      "Evolves into (name)": "Nidoking",
+      "Evolves into (id)": 34
+    },
+    {
+      "Number": 34,
+      "Pokemon": "Nidoking",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 35,
+      "Pokemon": "Clefairy",
+      "Evolves into (name)": "Clefable",
+      "Evolves into (id)": 36
+    },
+    {
+      "Number": 36,
+      "Pokemon": "Clefable",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 37,
+      "Pokemon": "Vulpix",
+      "Evolves into (name)": "Ninetales",
+      "Evolves into (id)": 38
+    },
+    {
+      "Number": 38,
+      "Pokemon": "Ninetales",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 39,
+      "Pokemon": "Jigglypuff",
+      "Evolves into (name)": "Wigglytuff",
+      "Evolves into (id)": 40
+    },
+    {
+      "Number": 40,
+      "Pokemon": "Wigglytuff",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 41,
+      "Pokemon": "Zubat",
+      "Evolves into (name)": "Golbat",
+      "Evolves into (id)": 42
+    },
+    {
+      "Number": 42,
+      "Pokemon": "Golbat",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 43,
+      "Pokemon": "Oddish",
+      "Evolves into (name)": "Gloom",
+      "Evolves into (id)": 44
+    },
+    {
+      "Number": 44,
+      "Pokemon": "Gloom",
+      "Evolves into (name)": "Vileplume",
+      "Evolves into (id)": 45
+    },
+    {
+      "Number": 45,
+      "Pokemon": "Vileplume",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 46,
+      "Pokemon": "Paras",
+      "Evolves into (name)": "Parasect",
+      "Evolves into (id)": 47
+    },
+    {
+      "Number": 47,
+      "Pokemon": "Parasect",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 48,
+      "Pokemon": "Venonat",
+      "Evolves into (name)": "Venomoth",
+      "Evolves into (id)": 49
+    },
+    {
+      "Number": 49,
+      "Pokemon": "Venomoth",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 50,
+      "Pokemon": "Diglett",
+      "Evolves into (name)": "Dugtrio",
+      "Evolves into (id)": 51
+    },
+    {
+      "Number": 51,
+      "Pokemon": "Dugtrio",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 52,
+      "Pokemon": "Meowth",
+      "Evolves into (name)": "Persian",
+      "Evolves into (id)": 53
+    },
+    {
+      "Number": 53,
+      "Pokemon": "Persian",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 54,
+      "Pokemon": "Psyduck",
+      "Evolves into (name)": "Golduck",
+      "Evolves into (id)": 55
+    },
+    {
+      "Number": 55,
+      "Pokemon": "Golduck",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 56,
+      "Pokemon": "Mankey",
+      "Evolves into (name)": "Primeape",
+      "Evolves into (id)": 57
+    },
+    {
+      "Number": 57,
+      "Pokemon": "Primeape",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 58,
+      "Pokemon": "Growlithe",
+      "Evolves into (name)": "Arcanine",
+      "Evolves into (id)": 59
+    },
+    {
+      "Number": 59,
+      "Pokemon": "Arcanine",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 60,
+      "Pokemon": "Poliwag",
+      "Evolves into (name)": "Poliwhirl",
+      "Evolves into (id)": 61
+    },
+    {
+      "Number": 61,
+      "Pokemon": "Poliwhirl",
+      "Evolves into (name)": "Poliwrath",
+      "Evolves into (id)": 62
+    },
+    {
+      "Number": 62,
+      "Pokemon": "Poliwrath",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 63,
+      "Pokemon": "Abra",
+      "Evolves into (name)": "Kadabra",
+      "Evolves into (id)": 64
+    },
+    {
+      "Number": 64,
+      "Pokemon": "Kadabra",
+      "Evolves into (name)": "Alakazam",
+      "Evolves into (id)": 65
+    },
+    {
+      "Number": 65,
+      "Pokemon": "Alakazam",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 66,
+      "Pokemon": "Machop",
+      "Evolves into (name)": "Machoke",
+      "Evolves into (id)": 67
+    },
+    {
+      "Number": 67,
+      "Pokemon": "Machoke",
+      "Evolves into (name)": "Machamp",
+      "Evolves into (id)": 68
+    },
+    {
+      "Number": 68,
+      "Pokemon": "Machamp",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 69,
+      "Pokemon": "Bellsprout",
+      "Evolves into (name)": "Weepinbell",
+      "Evolves into (id)": 70
+    },
+    {
+      "Number": 70,
+      "Pokemon": "Weepinbell",
+      "Evolves into (name)": "Victreebel",
+      "Evolves into (id)": 71
+    },
+    {
+      "Number": 71,
+      "Pokemon": "Victreebel",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 72,
+      "Pokemon": "Tentacool",
+      "Evolves into (name)": "Tentacruel",
+      "Evolves into (id)": 73
+    },
+    {
+      "Number": 73,
+      "Pokemon": "Tentacruel",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 74,
+      "Pokemon": "Geodude",
+      "Evolves into (name)": "Graveler",
+      "Evolves into (id)": 75
+    },
+    {
+      "Number": 75,
+      "Pokemon": "Graveler",
+      "Evolves into (name)": "Golem",
+      "Evolves into (id)": 76
+    },
+    {
+      "Number": 76,
+      "Pokemon": "Golem",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 77,
+      "Pokemon": "Ponyta",
+      "Evolves into (name)": "Rapidash",
+      "Evolves into (id)": 78
+    },
+    {
+      "Number": 78,
+      "Pokemon": "Rapidash",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 79,
+      "Pokemon": "Slowpoke",
+      "Evolves into (name)": "Slowbro",
+      "Evolves into (id)": 80
+    },
+    {
+      "Number": 80,
+      "Pokemon": "Slowbro",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 81,
+      "Pokemon": "Magnemite",
+      "Evolves into (name)": "Magneton",
+      "Evolves into (id)": 82
+    },
+    {
+      "Number": 82,
+      "Pokemon": "Magneton",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 83,
+      "Pokemon": "Farfetch'd",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 84,
+      "Pokemon": "Doduo",
+      "Evolves into (name)": "Dodrio",
+      "Evolves into (id)": 85
+    },
+    {
+      "Number": 85,
+      "Pokemon": "Dodrio",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 86,
+      "Pokemon": "Seel",
+      "Evolves into (name)": "Dewgong",
+      "Evolves into (id)": 87
+    },
+    {
+      "Number": 87,
+      "Pokemon": "Dewgong",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 88,
+      "Pokemon": "Grimer",
+      "Evolves into (name)": "Muk",
+      "Evolves into (id)": 89
+    },
+    {
+      "Number": 89,
+      "Pokemon": "Muk",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 90,
+      "Pokemon": "Shellder",
+      "Evolves into (name)": "Cloyster",
+      "Evolves into (id)": 91
+    },
+    {
+      "Number": 91,
+      "Pokemon": "Cloyster",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 92,
+      "Pokemon": "Gastly",
+      "Evolves into (name)": "Haunter",
+      "Evolves into (id)": 93
+    },
+    {
+      "Number": 93,
+      "Pokemon": "Haunter",
+      "Evolves into (name)": "Gengar",
+      "Evolves into (id)": 94
+    },
+    {
+      "Number": 94,
+      "Pokemon": "Gengar",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 95,
+      "Pokemon": "Onix",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 96,
+      "Pokemon": "Drowzee",
+      "Evolves into (name)": "Hypno",
+      "Evolves into (id)": 97
+    },
+    {
+      "Number": 97,
+      "Pokemon": "Hypno",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 98,
+      "Pokemon": "Krabby",
+      "Evolves into (name)": "Kingler",
+      "Evolves into (id)": 99
+    },
+    {
+      "Number": 99,
+      "Pokemon": "Kingler",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 100,
+      "Pokemon": "Voltorb",
+      "Evolves into (name)": "Electrode",
+      "Evolves into (id)": 101
+    },
+    {
+      "Number": 101,
+      "Pokemon": "Electrode",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 102,
+      "Pokemon": "Exeggcute",
+      "Evolves into (name)": "Exeggutor",
+      "Evolves into (id)": 103
+    },
+    {
+      "Number": 103,
+      "Pokemon": "Exeggutor",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 104,
+      "Pokemon": "Cubone",
+      "Evolves into (name)": "Marowak",
+      "Evolves into (id)": 105
+    },
+    {
+      "Number": 105,
+      "Pokemon": "Marowak",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 106,
+      "Pokemon": "Hitmonlee",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 107,
+      "Pokemon": "Hitmonchan",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 108,
+      "Pokemon": "Lickitung",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 109,
+      "Pokemon": "Koffing",
+      "Evolves into (name)": "Weezing",
+      "Evolves into (id)": 110
+    },
+    {
+      "Number": 110,
+      "Pokemon": "Weezing",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 111,
+      "Pokemon": "Rhyhorn",
+      "Evolves into (name)": "Rhydon",
+      "Evolves into (id)": 112
+    },
+    {
+      "Number": 112,
+      "Pokemon": "Rhydon",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 113,
+      "Pokemon": "Chansey",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 114,
+      "Pokemon": "Tangela",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 115,
+      "Pokemon": "Kangaskhan",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 116,
+      "Pokemon": "Horsea",
+      "Evolves into (name)": "Seadra",
+      "Evolves into (id)": 117
+    },
+    {
+      "Number": 117,
+      "Pokemon": "Seadra",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 118,
+      "Pokemon": "Goldeen",
+      "Evolves into (name)": "Seaking",
+      "Evolves into (id)": 119
+    },
+    {
+      "Number": 119,
+      "Pokemon": "Seaking",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 120,
+      "Pokemon": "Staryu",
+      "Evolves into (name)": "Starmie",
+      "Evolves into (id)": 121
+    },
+    {
+      "Number": 121,
+      "Pokemon": "Starmie",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 122,
+      "Pokemon": "Mr. Mime",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 123,
+      "Pokemon": "Scyther",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 124,
+      "Pokemon": "Jynx",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 125,
+      "Pokemon": "Electabuzz",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 126,
+      "Pokemon": "Magmar",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 127,
+      "Pokemon": "Pinsir",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 128,
+      "Pokemon": "Tauros",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 129,
+      "Pokemon": "Magikarp",
+      "Evolves into (name)": "Gyarados",
+      "Evolves into (id)": 130
+    },
+    {
+      "Number": 130,
+      "Pokemon": "Gyarados",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 131,
+      "Pokemon": "Lapras",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 132,
+      "Pokemon": "Ditto",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 133,
+      "Pokemon": "Eevee",
+      "Evolves into (name)": "Vaporeon\nJolteon\nFlareon",
+      "Evolves into (id)": "134, 135, 136"
+    },
+    {
+      "Number": 134,
+      "Pokemon": "Vaporeon",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 135,
+      "Pokemon": "Jolteon",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 136,
+      "Pokemon": "Flareon",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 137,
+      "Pokemon": "Porygon",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 138,
+      "Pokemon": "Omanyte",
+      "Evolves into (name)": "Omastar",
+      "Evolves into (id)": 139
+    },
+    {
+      "Number": 139,
+      "Pokemon": "Omastar",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 140,
+      "Pokemon": "Kabuto",
+      "Evolves into (name)": "Kabutops",
+      "Evolves into (id)": 141
+    },
+    {
+      "Number": 141,
+      "Pokemon": "Kabutops",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 142,
+      "Pokemon": "Aerodactyl",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 143,
+      "Pokemon": "Snorlax",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 144,
+      "Pokemon": "Articuno",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 145,
+      "Pokemon": "Zapdos",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 146,
+      "Pokemon": "Moltres",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 147,
+      "Pokemon": "Dratini",
+      "Evolves into (name)": "Dragonair",
+      "Evolves into (id)": 148
+    },
+    {
+      "Number": 148,
+      "Pokemon": "Dragonair",
+      "Evolves into (name)": "Dragonite",
+      "Evolves into (id)": 149
+    },
+    {
+      "Number": 149,
+      "Pokemon": "Dragonite",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 150,
+      "Pokemon": "Mewtwo",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    },
+    {
+      "Number": 151,
+      "Pokemon": "Mew",
+      "Evolves into (name)": "",
+      "Evolves into (id)": ""
+    }
+  ]
