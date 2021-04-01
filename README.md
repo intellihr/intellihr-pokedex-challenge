@@ -8,7 +8,7 @@ intelliHR uses a combination of Postgres, Laravel, NodeJS, GraphQL, React and Ty
 
 ### Gotta Catch 'Em All!
 
-With the proliferation of mobile devices in all worlds, the age of the dedicated pokedex is passing!  Modern trainers expect a web interface that they can access on their mobile devices.  We've been tasked by Professor Oak to build a prototype web pokedex.
+With the proliferation of mobile devices in all regions, the age of the dedicated pokedex is passing!  Modern trainers expect a web interface that they can access on their mobile devices.  We've been tasked by Professor Oak to build a prototype web pokedex.
 
 ![images/53yxmw.jpg](images/53yxmw.jpg)
 
